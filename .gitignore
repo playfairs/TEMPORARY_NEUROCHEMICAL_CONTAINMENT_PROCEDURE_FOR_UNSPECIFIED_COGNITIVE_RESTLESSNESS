@@ -16,3 +16,4 @@ config/
 *.adb~
 *.ads~
 *.toml~
+b~bordedom*
