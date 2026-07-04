@@ -1,0 +1,6 @@
+name = "boredom"
+description = "TEMPORARY_NEUROCHEMICAL_CONTAINMENT_PROCEDURE_FOR_UNSPECIFIED_COGNITIVE_RESTLESSNESS"
+version = "1.0.0"
+authors = ["x@playfairs.cc"]
+maintainers = ["x@playfairs.cc"]
+executables = ["boredom"]
